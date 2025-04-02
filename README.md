@@ -1,8 +1,8 @@
-# ✨ Olá, eu sou a Jessica Rodrigues!  
-🎓 Engenheira de Software em formação | 👩‍💻 Desenvolvedora iOS | 🎮 Entusiasta de jogos e IA  
+# ✨ Olá, eu sou o Samuel Coelho!  
+🎓 Engenheiro de Software em formação | 👨🏻‍💻 Desenvolvedor iOS | 🎮 Entusiasta de jogos e IA  
 
 ## 📌 Sobre mim  
-Atualmente, sou estudante de Engenharia de Software no Instituto de Computação (ICOMP) e faço parte do programa **Apple Developer Academy**. Trabalho principalmente com desenvolvimento para **iOS** e **watchOS**, explorando **Swift, SwiftUI e SpriteKit**. Além disso, desenvolvo jogos e aplicativos interativos.  
+Atualmente, sou estudante de Engenharia de Software no Instituto de Computação (ICOMP) e faço parte do programa **Apple Developer Academy**. Trabalho principalmente com desenvolvimento para **iOS**, explorando **Swift, SwiftUI e SpriteKit**. Além disso, desenvolvo jogos e aplicativos interativos.  
 
 🎯 **Interesses:** Desenvolvimento mobile, gamificação e desenvolvimento de Jogos.  
 
@@ -20,9 +20,8 @@ Atualmente, sou estudante de Engenharia de Software no Instituto de Computação
 
 ## 🌍 Onde me encontrar  
 
-📬 **E-mail:** [seuemail@email.com](mailto:seuemail@email.com)  
-🔗 **LinkedIn:** [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)  
-📂 **Portfólio:** [seuportfólio.com](https://seuportfólio.com)  
+📬 **E-mail:** [samcoelhoam@email.com](mailto:samcoelhoam@email.com)  
+🔗 **LinkedIn:** [linkedin.com/in/samuelcoelhoam](https://linkedin.com/in/samuelcoelhoam)  
 
 ---
 
