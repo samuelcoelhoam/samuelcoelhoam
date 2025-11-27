@@ -23,8 +23,8 @@ Atualmente sou estudante de Engenharia de Software no Instituto de Computação 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![CloudKit](https://img.shields.io/badge/CloudKit-157EFB?style=for-the-badge&logo=icloud&logoColor=white) ![CoreData](https://img.shields.io/badge/CoreData-2566E5?style=for-the-badge&logo=database&logoColor=white)
 
 ## 📱 Meus Projetos
-> Clique nos ícones abaixo para acessar o repositório do projeto.
-> <a style="text-decoration: none;" href="https://github.com/samuelcoelhoam/Ribbons" tabindex="-1">
+> Clique nos ícones abaixo para acessar o repositório do projeto.>
+<a style="text-decoration: none;" href="https://github.com/samuelcoelhoam/The-Faithbound" tabindex="-1">
   <img src="https://github.com/user-attachments/assets/67bfbc3e-a4e1-449d-8e0d-fda7939381a2" alt="Ribbons Icon" width="120"/>
 </a>
 <a style="text-decoration: none;" href="https://github.com/samuelcoelhoam/The-Faithbound" tabindex="-1">
