@@ -24,7 +24,7 @@ Atualmente sou estudante de Engenharia de Software no Instituto de Computação 
 
 ## 📱 Meus Projetos
 > Clique nos ícones abaixo para acessar o repositório do projeto.>
-<a style="text-decoration: none;" href="https://github.com/samuelcoelhoam/The-Faithbound" tabindex="-1">
+<a style="text-decoration: none;" href="https://github.com/samuelcoelhoam/Ribbons" tabindex="-1">
   <img src="https://github.com/user-attachments/assets/67bfbc3e-a4e1-449d-8e0d-fda7939381a2" alt="Ribbons Icon" width="120"/>
 </a>
 <a style="text-decoration: none;" href="https://github.com/samuelcoelhoam/The-Faithbound" tabindex="-1">
